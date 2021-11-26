@@ -1,0 +1,18 @@
+{
+  "name": "dzerver-config",
+  "version": "0.0.1",
+  "description": "config metamodule",
+  "main": " ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://google.com/dzerver/config.git"
+  },
+  "author": "",
+  "license": "AGPL-3.0-or-later",
+  "dependencies": {
+    "yaml": "^1.10.2"
+  }
+}

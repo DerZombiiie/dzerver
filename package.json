@@ -1,0 +1,28 @@
+{
+  "name": "dzerver",
+  "version": "0.0.1",
+  "description": "A sever infrastructure thing",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dzerver/dzerver.git"
+  },
+  "keywords": [
+    "nodejs",
+    "server",
+    "webserver",
+    "framework"
+  ],
+  "author": "DerZombiiie",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/dzerver/dzerver/issues"
+  },
+  "homepage": "https://github.com/dzerver/dzerver#readme",
+  "dependencies": {
+    "npm": "^8.1.4"
+  }
+}
