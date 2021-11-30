@@ -1,0 +1,22 @@
+{
+  "name": "express-dzerver",
+  "version": "0.0.1",
+  "description": "express module for dzerver",
+  "main": " ",
+  "scripts": {
+    "test": " "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DerZombiiie/express-dzerver.git"
+  },
+  "author": "DerZombiiie",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/DerZombiiie/express-dzerver/issues"
+  },
+  "homepage": "https://github.com/DerZombiiie/express-dzerver#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

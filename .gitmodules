@@ -5,3 +5,9 @@
 [submodule "modules/test"]
 	path = modules/test
 	url = https://github.com/DerZombiiie/dzerver-test
+[submodule "modules/express"]
+	path = modules/express
+	url = https://github.com/DerZombiiie/express-dzerver.git
+[submodule "express"]
+	path = express
+	url = https://github.com/DerZombiiie/express-dzerver.git
